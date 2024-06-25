@@ -29,10 +29,6 @@ Data-Flow Programming Editor for cognixcore; For graph evaluation in offline and
 
 To get started with the Cognix platform, follow the instructions in the individual repositories linked above.
 
-## Contributing
-
-We welcome contributions! Please see the contribution guidelines in each repository for more details.
-
 ## License
 
 The Cognix platform is licensed under the GNU General Public License v3.0. See the LICENSE file in each repository for more details.
