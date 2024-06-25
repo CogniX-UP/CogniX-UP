@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-Welcome to the Cognix project, a comprehensive software platform designed to [brief description of what Cognix does].
+Welcome to the Cognix project, a software platform for the design and evaluation of offline or streaming data-flow systems, with a focus on the analysis of EEG and Eye-Gaze signals. Development eventually led to various subsystems that can be utilized outside of these domains. 
 
 ## Overview
 
