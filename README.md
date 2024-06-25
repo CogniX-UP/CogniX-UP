@@ -12,14 +12,13 @@ Welcome to the Cognix project, a comprehensive software platform designed to [br
 
 The Cognix platform is composed of several repositories, each handling a different aspect of the system. Below is a summary of each repository:
 
-### [CognixLib](https://github.com/CogniX-Up/cognixlib)
-
-Cognixlib is a python package and library designed to help with the offline or online analysis of EEG and Eye-Gaze signals. It emerged as a deliverable of the [CogniX](http://www.cognix.gr) project. It provides a scripting API that helps in the manipulation, filtering or general transformation of various kind of biophysical signals, currently specialized for EEG and Eye-Gaze. It also provides a node-based API created using the scripting API and [cognixcore](https://github.com/CogniX-Up/cognixcore). The original commit history can be found in a [fork](https://github.com/HeftyCoder/Ryven/tree/cognix). After initial development it was moved to this standalone repository. Much of the library is still being tested and improved on, so you can expect breaking changes.
-
-
 ### [CognixCore](https://github.com/CogniX-Up/cognixcore)
 
 A Python library for offline and streaming graph-based processing and evaluation, designed for modern flow-based/node-based scenarios. It is the driving force behind the [CogniX](http://cognix.gr) project, but was designed with extensibility and modularity in mind. This library started as a fork of [ryvencore](https://github.com/leon-thomm/ryvencore), with additional functionality. Due to requirements that introduced breaking changes and deviation from the original source, the [fork](https://github.com/HeftyCoder/ryvencore/tree/cognix) was moved to a stand-alone repository.
+
+### [CognixLib](https://github.com/CogniX-Up/cognixlib)
+
+Cognixlib is a python package and library designed to help with the offline or online analysis of EEG and Eye-Gaze signals. It emerged as a deliverable of the [CogniX](http://www.cognix.gr) project. It provides a scripting API that helps in the manipulation, filtering or general transformation of various kind of biophysical signals, currently specialized for EEG and Eye-Gaze. It also provides a node-based API created using the scripting API and [cognixcore](https://github.com/CogniX-Up/cognixcore). The original commit history can be found in a [fork](https://github.com/HeftyCoder/Ryven/tree/cognix). After initial development it was moved to this standalone repository. Much of the library is still being tested and improved on, so you can expect breaking changes.
 
 ### [Cognix Editor](https://github.com/CogniX-Up/cognix-editor)
 
