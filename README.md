@@ -32,10 +32,6 @@ To get started with the Cognix platform, follow the instructions in the individu
 
 The Cognix platform is licensed under the GNU General Public License v3.0. See the LICENSE file in each repository for more details.
 
-## Contact
-
-For any questions, please contact us at [add a contact email].
-
 ## Acknowledgments 
 
 COGNIX stands for "Electroencephalography and Eye Gaze-driven Framework for Intelligent and Real-Time Human Cognitive Modelling", which is a research project financially supported by the Hellenic Foundation for Research and Innovation (H.F.R.I.).
