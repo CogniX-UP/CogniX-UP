@@ -6,11 +6,7 @@
 </picture>
 </p>
 
-Welcome to the Cognix project, a software platform for the design and evaluation of offline or streaming data-flow systems, with a focus on the analysis of EEG and Eye-Gaze signals. Development eventually led to various subsystems that can be utilized outside of these domains. 
-
-## Overview
-
-The Cognix platform is composed of several repositories, each handling a different aspect of the system. Below is a summary of each repository:
+Welcome to the Cognix project, a software platform for the design and evaluation of offline or streaming data-flow systems, with a focus on the analysis of EEG and Eye-Gaze signals. Development eventually led to various subsystems that can be utilized outside of these domains. As a result, the Cognix platform is composed of several repositories, each handling a different aspect of the system. Below is a summary of each repository:
 
 ### [CognixCore](https://github.com/CogniX-Up/cognixcore)
 
